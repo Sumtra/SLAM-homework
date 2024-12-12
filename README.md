@@ -1,4 +1,4 @@
-SLAM-homework
+SLAM-homework（前四题使用C++语言；第五题有关于DLT&P3P和RANSAC使用python编写，在DLT+P3P文件夹中）
 
 项目结构：
 
